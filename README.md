@@ -30,7 +30,6 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - **DAX** – to create calculated measures and KPIs  
 - **Excel/CSV** – as a data source   <a href="https://github.com/Sifat-1/Costco_Sales_Data_Analysis_Power_BI_Dashboard/tree/main/Costco_datasets">Datasets</a>
 - **Power Query** – for data cleaning and transformation
-- 
 ## **Process**
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean concerning data type, data format, and values used.
@@ -41,5 +40,7 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 ## **Dashboard**
 
 ![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
+![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
+
 
 
