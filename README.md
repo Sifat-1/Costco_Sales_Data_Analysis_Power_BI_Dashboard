@@ -56,7 +56,7 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - Regional Revenue Performance
 - Segment Contribution to Revenue
 
----
+
 
 ## Projects Insights 
 - Identified a **73% drop in revenue** compared to last year
@@ -64,6 +64,18 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - Showed **Consumer segment** drives over 50% of revenue
 - Revealed best-selling and highest-margin products
 - Tracked monthly trends to monitor performance against targets
+
+## **Final Conclusion:**
+The Costco Sales Performance Dashboard provides clear visibility into the company’s key sales metrics across time, regions, products, and customer segments. The dashboard reveals a significant decline in revenue and profit compared to the previous year, driven by lower order volume and underperformance in certain regions. However, it also identifies high-performing products and segments like the Consumer category and the West region, offering actionable insights to redirect strategy.
+By centralizing critical KPIs and enabling interactive exploration, this dashboard empowers stakeholders to make faster, data-driven decisions, address operational inefficiencies, and capitalize on emerging growth opportunities.
+
+##  Future Enhancements
+- Add forecasting for revenue and profit
+- Drillthrough pages for product and region-level details
+- Mobile-friendly dashboard layout
+
+  ##  Contact
+For questions or collaboration, feel free to reach out via [LinkedIn](#) or [Email](#).
 
 
 
