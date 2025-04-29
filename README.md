@@ -41,6 +41,31 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 
 ![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
 ![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
+##  Key Features
+- **Total Revenue, Profit, and Quantity** with year-over-year comparison  
+- **Revenue vs Target** line chart (2020–2024)  
+- **Order vs Target** KPI Gauge  
+- **Revenue Breakdown by Region and State** (Map and Bar Chart)  
+- **Revenue by Customer Segment** (Consumer, Corporate, Home Office)  
+- **Top Products by Revenue and Profitability**
+## KPIs Tracked
+- Total Revenue ($2.9M)
+- Total Profit ($1.6M)
+- Total Quantity Sold (49.3K units)
+- Orders vs Target (15.9K vs 20K)
+- Regional Revenue Performance
+- Segment Contribution to Revenue
+
+---
+
+## Projects Insights 
+- Identified a **73% drop in revenue** compared to last year
+- Highlighted **West region** as the top performer
+- Showed **Consumer segment** drives over 50% of revenue
+- Revealed best-selling and highest-margin products
+- Tracked monthly trends to monitor performance against targets
+
+
 
 
 
