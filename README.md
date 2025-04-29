@@ -24,6 +24,11 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - How effectively are sales efforts translating into profits?
 - Which year had the highest and lowest revenue?
   
-
 - Dashboard Interaction <a href="https://github.com/Sifat-1/Costco_Sales_Data_Analysis_Power_BI_Dashboard/tree/main/Dashboard_interactive_images">View Dashboard</a>
+## Tools & Technologies
+- **Power BI** – for data modeling and interactive visualization  
+- **DAX** – to create calculated measures and KPIs  
+- **Excel/CSV** – as a data source   <a href="https://github.com/Sifat-1/Costco_Sales_Data_Analysis_Power_BI_Dashboard/tree/main/Costco_datasets">Datasets</a>
+- **Power Query** – for data cleaning and transformation
+
 
