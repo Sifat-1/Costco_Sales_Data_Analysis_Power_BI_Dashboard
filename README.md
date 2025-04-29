@@ -75,7 +75,7 @@ By centralizing critical KPIs and enabling interactive exploration, this dashboa
 - Mobile-friendly dashboard layout
 
   ##  Contact
-For questions or collaboration, feel free to reach out via [<a href="https://www.linkedin.com/in/sifat-nowshin-8a2759181/"> LinkedIn </a>](#) or  [Email: sifat.nowshin00@gmail.com](#).
+For questions or collaboration, feel free to reach out via [<a href="https://www.linkedin.com/in/sifat-nowshin-8a2759181/"> LinkedIn </a>](#).
 
 
 
