@@ -25,5 +25,5 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - Which year had the highest and lowest revenue?
   
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Sifat-1/Costco_Sales_Data_Analysis_Power_BI_Dashboard/tree/main/Dashboard_interactive_images">View Dashboard</a>
 
