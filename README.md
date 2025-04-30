@@ -6,6 +6,12 @@ Designed and implemented an interactive sales performance dashboard for Costco t
 - <a href="https://github.com/Sifat-1/Costco_Sales_Data_Analysis_Power_BI_Dashboard/tree/main/Costco_datasets">Datasets</a>
 ##  Overview
 This Power BI dashboard provides a comprehensive view of Costco's sales data from 2020 to 2024, highlighting revenue trends, profit margins, product performance, regional contributions, and customer segment distribution. It enables stakeholders to quickly identify performance gaps and growth areas.
+## **Dashboard**
+## **When filter pane is closed**
+
+![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
+## **When filter pane is opened**
+![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
 ## **Questions (KPIs)**
 
 - What is the total revenue, profit, and quantity sold this year?
@@ -37,12 +43,7 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - Created two new tables (Date & Measure) to simplify the data analysis process  
 - Applied bookmarks, including Slicers, to explore different moments.
 
-## **Dashboard**
-## **When filter pane is closed**
 
-![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
-## **When filter pane is opened**
-![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
 ##  Key Features
 - **Total Revenue, Profit, and Quantity** with year-over-year comparison  
 - **Revenue vs Target** line chart (2020–2024)  
