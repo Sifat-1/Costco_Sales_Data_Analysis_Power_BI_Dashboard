@@ -12,6 +12,9 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 ![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
 ## **When filter pane is opened**
 ![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
+
+  ## **Interactive Dashboard in Power BI**
+  - <a href="https://app.powerbi.com/links/LnDOybEWRl?ctid=33358af8-1d06-4724-aa83-54f4ce7156e4&pbi_source=linkShare&bookmarkGuid=845da384-49f5-4470-a04a-1103abffa91c">Project Link</a>
 ## **Questions (KPIs)**
 
 - What is the total revenue, profit, and quantity sold this year?
