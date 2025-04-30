@@ -38,8 +38,10 @@ This Power BI dashboard provides a comprehensive view of Costco's sales data fro
 - Applied bookmarks, including Slicers, to explore different moments.
 
 ## **Dashboard**
+## ***when filter pane is closed ***
 
 ![costco](https://github.com/user-attachments/assets/b3394f98-8b51-4a54-bc0b-232810a75750)
+## ***when filter pane is opened ***
 ![2](https://github.com/user-attachments/assets/ec890097-2965-4e70-9c79-4c871bc48106)
 ##  Key Features
 - **Total Revenue, Profit, and Quantity** with year-over-year comparison  
